@@ -1,2 +1,2 @@
 # testapp
-https://vilechuy.github.io/rsschool-cv/
+https://vilechuy.github.io
